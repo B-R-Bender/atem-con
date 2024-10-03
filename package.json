@@ -86,7 +86,7 @@
     "video"
   ],
   "dependencies": {
-    "debug": "^4.3.4",
+    "debug": "^4.3.5",
     "eventemitter3": "^4.0.7",
     "exit-hook": "^2.2.1",
     "nanotimer": "^0.3.15",
